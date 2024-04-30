@@ -10,6 +10,12 @@ _Great job adding a code example to the file :partying_face:_
 
 **What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
 
+### My list
+- [x] Commits
+- [x]  Create branch
+- [x]  Create pull request
+- [x]  Comentar
+
 ### Example
 
 ```
@@ -32,9 +38,9 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 1. Use Markdown to create a task list. Here is an example:
 
    ```md
-   - [ ] Turn on GitHub Pages
-   - [ ] Outline my portfolio
-   - [ ] Introduce myself to the world
+   - [x] Turn on GitHub Pages
+   - [x] Outline my portfolio
+   - [v] Introduce myself to the world
    ```
 
    Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
