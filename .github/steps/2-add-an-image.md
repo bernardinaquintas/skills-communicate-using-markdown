@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://cdn.pixabay.com/photo/2024/03/14/08/52/pug-8632718_1280.jpg)
+
 <!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
