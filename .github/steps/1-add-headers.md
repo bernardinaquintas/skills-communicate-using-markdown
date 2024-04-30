@@ -1,3 +1,9 @@
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
